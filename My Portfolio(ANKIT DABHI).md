@@ -20,7 +20,7 @@ I specialize in transforming raw data into actionable insights that drive smart 
 
 - **Skills Used:** Pandas, Data Wrangling, Bayesian Probability  
 - 📌 *Outcome:* Found the apparent age gap was due to historical biases in handedness reporting.  
-- 🔗 [View Project](https://github.com/ankitdabhi001/data-analytics-projects/blob/main/handedness_analysis.ipynb)
+
 
 ---
 
@@ -29,7 +29,7 @@ I specialize in transforming raw data into actionable insights that drive smart 
 
 - **Skills Used:** Excel formulas, pivot tables, VLOOKUP, Tableau dashboards  
 - 📌 *Outcome:* Identified target segments (high-income, urban males aged 31–45).  
-- 🔗 [Tableau Link](#) | [Excel Workbook](#)
+
 
 ---
 
@@ -38,7 +38,7 @@ I specialize in transforming raw data into actionable insights that drive smart 
 
 - **Skills Used:** R, RStudio, tidyverse, data pipelines  
 - 📌 *Outcome:* Reduced missing data by 93%, standardized variables for analysis  
-- 🔗 [GitHub Notebook](#)
+
 
 ---
 
@@ -47,7 +47,7 @@ I specialize in transforming raw data into actionable insights that drive smart 
 
 - **Skills Used:** Python, Regex, Pandas  
 - 📌 *Outcome:* Created an ATS-style scoring tool to rank resume-job fit.  
-- 🔗 [View Project](https://github.com/ankitdabhi001/python-Ai-Roadmap/blob/main/All%20Projects/Resume_Ai(PROJECT).py)
+
 
 ---
 
@@ -65,7 +65,7 @@ I specialize in transforming raw data into actionable insights that drive smart 
 ## 📄 Portfolio & Resume
 
 - 🔗 **Live Portfolio Website:** [Streamlit Portfolio](https://python-ai-roadmap-bmgd4qgi2zk7uv9zddlsiv.streamlit.app/)
-- 📄 **Resume (Data Analyst Focused):** [Download Resume (PDF)](https://github.com/ankitdabhi001/your-resume-link)
+
 
 ---
 
